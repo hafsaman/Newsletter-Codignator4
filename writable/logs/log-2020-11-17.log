@@ -1,0 +1,411 @@
+CRITICAL - 2020-11-17 02:02:47 --> syntax error, unexpected 'three' (T_STRING)
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('newsletter/add_...')
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('newsletter/add_...')
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-11-17 02:05:00 --> Call to a member function post() on null
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->add_new()
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-11-17 02:12:49 --> Call to a member function post() on null
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->add_new()
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-11-17 02:12:52 --> Call to a member function post() on null
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->add_new()
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-11-17 02:13:48 --> Call to a member function post() on null
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->add_new()
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-11-17 02:28:53 --> Call to a member function post() on null
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->add_new()
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-11-17 02:30:57 --> Call to a member function post() on null
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->add_new()
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-11-17 02:30:59 --> Call to a member function post() on null
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->add_new()
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-11-17 02:31:11 --> Call to a member function post() on null
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->add_new()
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-11-17 02:31:26 --> Call to a member function post() on null
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->add_new()
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-11-17 02:31:35 --> Call to a member function post() on null
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->add_new()
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-11-17 02:33:43 --> Call to a member function post() on null
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->add_new()
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-11-17 02:39:54 --> syntax error, unexpected '?>'
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('welcome_message', Array, true)
+#1 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(7): view('welcome_message')
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#3 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-11-17 02:40:21 --> syntax error, unexpected '?>'
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('welcome_message', Array, true)
+#1 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(7): view('welcome_message')
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#3 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-11-17 02:40:29 --> syntax error, unexpected '?>'
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('welcome_message', Array, true)
+#1 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(7): view('welcome_message')
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#3 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-11-17 03:16:02 --> syntax error, unexpected '?>'
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('welcome_message', Array, true)
+#1 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(7): view('welcome_message')
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#3 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-11-17 03:16:07 --> syntax error, unexpected '?>'
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('welcome_message', Array, true)
+#1 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(7): view('welcome_message')
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#3 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-11-17 03:35:33 --> syntax error, unexpected '?>'
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('welcome_message', Array, true)
+#1 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(7): view('welcome_message')
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#3 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-11-17 03:36:41 --> syntax error, unexpected '?>'
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('welcome_message', Array, true)
+#1 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(7): view('welcome_message')
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#3 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-11-17 03:36:44 --> syntax error, unexpected '?>'
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('welcome_message', Array, true)
+#1 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(7): view('welcome_message')
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#3 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-11-17 03:41:14 --> syntax error, unexpected '?>'
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('welcome_message', Array, true)
+#1 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(7): view('welcome_message')
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#3 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-11-17 03:42:16 --> syntax error, unexpected '?>'
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('welcome_message', Array, true)
+#1 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(7): view('welcome_message')
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->index()
+#3 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-11-17 04:05:31 --> Class 'App\Models\SubscriberModel' not found
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\AdminNewsSubscriber->index()
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminNewsSubscriber))
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-11-17 04:06:55 --> Class 'App\Models\SubscriberModel' not found
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\AdminNewsSubscriber->index()
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminNewsSubscriber))
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-11-17 04:06:59 --> Class 'App\Models\SubscriberModel' not found
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\AdminNewsSubscriber->index()
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminNewsSubscriber))
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-11-17 04:07:44 --> Undefined variable: users
+#0 C:\xampp\htdocs\newsletterdemo\app\Views\admin\subscriber_view.php(31): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 31, Array)
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('admin/subscribe...', Array, true)
+#3 C:\xampp\htdocs\newsletterdemo\app\Controllers\AdminNewsSubscriber.php(12): view('admin/subscribe...', Array)
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\AdminNewsSubscriber->index()
+#5 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminNewsSubscriber))
+#6 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-11-17 04:14:30 --> Invalid file: admin/edit_subscriber.php
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/edit_subs...')
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('admin/edit_subs...', Array, true)
+#2 C:\xampp\htdocs\newsletterdemo\app\Controllers\AdminNewsSubscriber.php(35): view('admin/edit_subs...', Array)
+#3 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\AdminNewsSubscriber->singleSubscriber('1')
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminNewsSubscriber))
+#5 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#8 {main}
+CRITICAL - 2020-11-17 04:22:04 --> Undefined property: App\Controllers\Home::$input
+#0 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 12, Array)
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->add_new()
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-11-17 04:22:07 --> Undefined property: App\Controllers\Home::$input
+#0 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 12, Array)
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->add_new()
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-11-17 04:23:29 --> Undefined property: App\Controllers\Home::$input
+#0 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 12, Array)
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->add_new()
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-11-17 04:24:51 --> Undefined property: App\Controllers\Home::$input
+#0 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 12, Array)
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->add_new()
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-11-17 04:27:54 --> Undefined property: App\Controllers\Home::$input
+#0 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 12, Array)
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->add_new()
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-11-17 11:16:43 --> syntax error, unexpected '}', expecting variable (T_VARIABLE) or '{' or '$'
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->requireFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Autoloader\Autoloader.php(258): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 [internal function]: spl_autoload_call('App\\Controllers...')
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(869): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(394): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-11-17 11:17:36 --> Class 'App\Models\NewsletterModel' not found
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->listview()
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2020-11-17 11:31:16 --> Unknown column 'email' in 'where clause'
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('SELECT *\nFROM `...')
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Model.php(506): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(36): CodeIgniter\Model->first()
+#6 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->listview()
+#7 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-11-17 11:32:31 --> Undefined variable: newsletter
+#0 C:\xampp\htdocs\newsletterdemo\app\Views\newsletter_list.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('newsletter_list', Array, true)
+#3 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(49): view('newsletter_list', Array)
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->listview()
+#5 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-11-17 11:39:22 --> Undefined variable: newsletter
+#0 C:\xampp\htdocs\newsletterdemo\app\Views\newsletter_list.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('newsletter_list', Array, true)
+#3 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(49): view('newsletter_list', Array)
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->listview()
+#5 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-11-17 11:41:22 --> Argument 2 passed to view() must be of the type array, string given, called in C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php on line 30
+#0 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(30): view('newsletter_list', 'No Records ')
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->list()
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-11-17 11:41:26 --> Argument 2 passed to view() must be of the type array, string given, called in C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php on line 30
+#0 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(30): view('newsletter_list', 'No Records ')
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->list()
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-11-17 11:41:50 --> Undefined variable: newsletter
+#0 C:\xampp\htdocs\newsletterdemo\app\Views\newsletter_list.php(43): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 43, Array)
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('newsletter_list', Array, true)
+#3 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(30): view('newsletter_list', Array)
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->list()
+#5 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-11-17 11:45:40 --> Array to string conversion
+#0 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(37): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Array to string...', 'C:\\xampp\\htdocs...', 37, Array)
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->listview()
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-11-17 11:46:32 --> count(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(38): count(true)
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->listview()
+#3 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-11-17 11:46:53 --> Undefined index: created_date
+#0 C:\xampp\htdocs\newsletterdemo\app\Views\newsletter_list.php(48): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 48, Array)
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Common.php(1119): CodeIgniter\View\View->render('newsletter_list', Array, true)
+#3 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(44): view('newsletter_list', Array)
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->listview()
+#5 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2020-11-17 11:47:51 --> count(): Parameter must be an array or an object that implements Countable
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'count(): Parame...', 'C:\\xampp\\htdocs...', 38, Array)
+#1 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(38): count(NULL)
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->listview()
+#3 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2020-11-17 12:33:13 --> Column 'name' cannot be null
+#0 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(331): mysqli->query('INSERT INTO `ci...')
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `ci...')
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `ci...')
+#3 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Database\BaseBuilder.php(2249): CodeIgniter\Database\BaseConnection->query('INSERT INTO `ci...', Array, false)
+#4 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Model.php(755): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(20): CodeIgniter\Model->insert(Array)
+#6 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->add_new()
+#7 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#11 {main}
+CRITICAL - 2020-11-17 13:11:07 --> Undefined variable: email
+#0 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 20, Array)
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->add_new()
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-11-17 13:11:09 --> Undefined variable: email
+#0 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 20, Array)
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->add_new()
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
+CRITICAL - 2020-11-17 13:11:28 --> Undefined variable: email
+#0 C:\xampp\htdocs\newsletterdemo\app\Controllers\Home.php(20): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 20, Array)
+#1 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(918): App\Controllers\Home->add_new()
+#2 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#3 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\newsletterdemo\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp\htdocs\newsletterdemo\vendor\codeigniter4\framework\system\Commands\Server\rewrite.php(34): require_once('C:\\xampp\\htdocs...')
+#6 {main}
